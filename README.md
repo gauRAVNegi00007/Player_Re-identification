@@ -22,8 +22,7 @@ This project is fully self-contained and reproducible. It serves as a practical 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/player-reid-demo.git
-   cd player-reid-demo
+   git clone https://github.com/gauRAVNegi00007/Player_Re-identification.git
 2. Create a virtual environment and activate it:
      python3 -m venv player_reid_env
      source player_reid_env/bin/activate
